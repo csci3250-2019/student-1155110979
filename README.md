@@ -31,3 +31,5 @@ Aimer- Re:pray (https://www.youtube.com/watch?v=uVeSf_vIeAE)
 - [ ] Make a game by myself
 - [ ] Intern
 - [ ] Aimer Concert  (I hate scalpers !!!)
+
+  ![ ](https://raw.githubusercontent.com/csci3250-2019/student-1155110979/master/git.png)
